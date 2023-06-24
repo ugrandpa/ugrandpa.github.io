@@ -167,7 +167,7 @@
 }
 
 .glyph-hireme:before {
-    content: "\E82C"
+    
 }
 
 .glyph-home:before {
@@ -2177,7 +2177,6 @@ a.button {
 
 .button.dark.primary {
     background-color: #0872b4;
-    border-color: #0872b4
 }
 
 .no-touchevents .button.dark.primary:hover {
