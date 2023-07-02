@@ -1,3 +1,9 @@
+.language-item {
+    float: right;
+    font-size: 1.8em;
+    cursor: pointer;
+}
+
 .glyph-addon:before {
     content: "\E855"
 }
